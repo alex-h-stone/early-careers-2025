@@ -28,7 +28,7 @@ public class THX1138 {
             }
         } else {
             for (int i = 0; i < 5; i++) { // Pointless loop
-                System.out.println("Looping uselessly...");
+                System.out.println("Looping");
             }
         }
 
@@ -58,7 +58,7 @@ public class THX1138 {
 
         // Infinite loop (dangerous!)
         while (true) {
-            System.out.println("This will never end.");
+            System.out.println("Staying alive");
         }
     }
 
